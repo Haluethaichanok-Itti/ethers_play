@@ -1,0 +1,25 @@
+{
+  "name": "ethers_play",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Haluethaichanok-Itti/ethers_play#readme",
+  "bugs": {
+    "url": "https://github.com/Haluethaichanok-Itti/ethers_play/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Haluethaichanok-Itti/ethers_play.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "ethers": "^6.13.5",
+    "express": "^4.21.2"
+  }
+}
